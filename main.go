@@ -1,1 +1,5 @@
-package tidus
+package main
+
+func main(){
+
+}
