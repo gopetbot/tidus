@@ -1,4 +1,4 @@
-module github.com/idasilva/tidus
+module github.com/gopetbot/tidus
 
 go 1.13
 
