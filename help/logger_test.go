@@ -9,7 +9,7 @@ const (
 	help = "help"
 )
 
-func LoggerInit(*testing.T) {
+func Test_LoggerInit(*testing.T) {
 
 	logger := NewLog()
 	logger.WithFields(logrus.Fields{
